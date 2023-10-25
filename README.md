@@ -5,7 +5,7 @@
 
 I graduated from Sakarya University with a degree in Computer Engineering in 2023. I'm currently 23 years old and at the beginning of my career as a computer engineer. I'm striving to develop myself in the backend field, and I am interested in .Net technologies.
 
-- 🌱 I’m currently learning **C#, .NET, EF Core, SQL and React**
+- 🌱 I'm currently improving my knowledge of **C#, .NET, EF Core, SQL** and learning **React**
 - 📫 How to reach me **ggamzeeceylan@gmail.com**
   
 
